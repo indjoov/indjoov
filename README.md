@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <h1 align="left">Hi, I’m Nicola Indjov 👋</h1>
+<p align="left"><i>Building open, inclusive tools for the future of human-computer creativity.</i></p>
 
+🎵 <b>Creative Technologist</b> | AI & Sound Developer · Founder of <b>Indjoov Arts</b><br/>
+Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 🎵 <b>Creative Technologist</b> · AI & Sound Developer · Founder of <b>Indjoov Arts</b>  
 Exploring the intersection of <b>art, code, and inclusive design</b>.
 
