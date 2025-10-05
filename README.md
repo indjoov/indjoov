@@ -4,8 +4,6 @@
 
 🎵 <b>Creative Technologist</b> | AI & Sound Developer · Founder of <b>Indjoov Arts</b><br/>
 Exploring the intersection of <b>AI, sound, and inclusive design.</b>
-🎵 <b>Creative Technologist</b> · AI & Sound Developer · Founder of <b>Indjoov Arts</b>  
-Exploring the intersection of <b>art, code, and inclusive design</b>.
 
 🌍 Based in Berlin · Active across Europe  
 🧠 Focus: WebAudio API · Tone.js · Three.js · Canvas API · AI for Sound Interaction  
