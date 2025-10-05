@@ -1,8 +1,13 @@
 <!-- Profile Header -->
 <h1 align="left">Hi, I’m Nicola Indjov 👋</h1>
-<p>
-  🎸 Creative Technologist</b> · AI & Sound Developer · Founder of <b>Indjoov Arts</b>  
+
+🎵 <b>Creative Technologist</b> · AI & Sound Developer · Founder of <b>Indjoov Arts</b>  
 Exploring the intersection of <b>art, code, and inclusive design</b>.
+
+🌍 Based in Berlin · Active across Europe  
+🧠 Focus: WebAudio API · Tone.js · Three.js · Canvas API · AI for Sound Interaction  
+🔬 Open Source R&D · Accessibility in Music Tech  
+🤝 Open for collaborations in Creative Technology & AI-driven Sound Design
 </p>
 
 <!-- Quick badges -->
