@@ -88,3 +88,22 @@ Exploring the intersection of <b>art, code, and inclusive design</b>.
 ---
 
 _“With Sonic Inclusion, we aim to turn sound into a shared, inclusive experience for all.”_
+
+<hr>
+
+<p align="center">
+🖤 Made by <b>Nicola Indjov</b> · 
+<a href="https://indjoov.com" target="_blank">indjoov.com</a> · 
+<a href="https://linkedin.com/in/nicola-indjov" target="_blank">LinkedIn</a> · 
+<a href="https://github.com/indjoov" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+<sub>⚙️ Creative Technologist · AI & Sound Developer · Open Source R&D in Music Tech</sub>
+</p>
+
+<p align="center">
+<a href="https://indjoov.com"><img src="https://img.shields.io/badge/Website-indjoov.com-black?style=flat-square&logo=firefox" /></a>
+<a href="https://github.com/indjoov"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" /></a>
+<a href="https://linkedin.com/in/nicola-indjov"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+</p>
