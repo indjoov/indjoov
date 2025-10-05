@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="left">Hi, I’m Nicola Indjov 👋</h1>
 <p>
-  🎸 Musician · 🧪 Creative Coder · ⚡ Founder of <b>Indjoov Arts</b><br/>
+  🎸 Music Tech · 🧪 Creative Coder · ⚡ Founder of <b>Indjoov Arts</b><br/>
   Exploring the intersection of <b>AI</b>, <b>sound</b>, and <b>ritual performance</b>.
 </p>
 
