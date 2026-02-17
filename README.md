@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="left">Hi, I’m Nicola Indjov 👋</h1>
 <p align="left"><i>Building open, inclusive tools for the future of human-computer creativity.</i></p>
 
@@ -11,7 +10,6 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 🤝 Open for collaborations in Creative Technology & AI-driven Sound Design
 </p>
 
-<!-- Quick badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=indjoov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Location-Berlin-4D7CFE?style=flat&logo=google-maps&logoColor=white" />
@@ -20,7 +18,25 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ---
 
-## 🎯 Featured Project
+## 🎯 Featured Projects
+
+### 🎸 PitchCraft — Open Source Accessible Chromatic Tuner
+[🚀 Live Demo](https://indjoov.github.io/pitchcraft/) · [📦 Repository](https://github.com/indjoov/pitchcraft)
+
+<p>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
+</p>
+
+- **Real-time pitch detection** via the Web Audio API
+- Supports **Guitar, Bass, Ukulele, Violin, Cello, Banjo, and Mandolin**
+- **Inclusive UI**: High Contrast and Large Text modes for low-vision users
+- Built with **React 19**, **Vite**, and **Tailwind CSS**
+
+---
 
 ### 🎼 Sonic Inclusion — Open Toolkit for Accessible Sound Design using AI
 [🔗 Live Demo](https://indjoov.github.io/sonic-inclusion/) · [📦 Repository](https://github.com/indjoov/sonic-inclusion)
@@ -34,9 +50,7 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 </p>
 
 - Turns audio into **color & shape** visualizations  
-- Works with **microphone** or **audio files**  
-- Built with **Web Audio API**, **Canvas**, **JS**, **CSS**  
-- Goal: accessible, barrier-free sound experiences
+- Works with **microphone** or **audio files** - Built with **Web Audio API**, **Canvas**, **JS**, **CSS** - Goal: accessible, barrier-free sound experiences
 
 ---
 
@@ -58,20 +72,12 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indjoov&layout=compact&theme=radical" />
 </p>
 
-<!-- Optional Streaks (kannst du aktiv lassen oder löschen)
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=indjoov&theme=radical" />
-</p>
--->
-
 ---
 
 ## 🧪 What I’m exploring next
 - AI-assisted **audio ↔ tactile/visual** mapping  
 - Plugins for **DAWs** & live performance  
-- Co-creation with **accessibility communities**  
-
----
+- Co-creation with **accessibility communities** ---
 
 ## 🧵 Recent Projects
 - Indjoov Ritual (psychedelic rock & art project) — landing & web app  
