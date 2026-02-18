@@ -89,14 +89,6 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ---
 
-## 📈 GitHub Snapshot
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=indjoov&show_icons=true&theme=radical&hide_rank=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indjoov&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🧪 What I'm exploring next
 - AI-assisted **audio ↔ tactile/visual** mapping  
 - Expanding the **Craft Audio** toolkit (PitchCraft · DrumCraft · more to come)
