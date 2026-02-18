@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I’m Nicola Indjov 👋</h1>
+<h1 align="left">Hi, I’m Niki Indjov 👋</h1>
 <p align="left"><i>Building open, inclusive tools for the future of human-computer creativity.</i></p>
 
 🎵 <b>Creative Technologist</b> | AI & Sound Developer · Founder of <b>Indjoov Arts</b><br/>
