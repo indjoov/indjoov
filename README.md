@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I’m Niki Indjov 👋</h1>
+<h1 align="left">Hi, I'm Niki Indjov 👋</h1>
 <p align="left"><i>Building open, inclusive tools for the future of human-computer creativity.</i></p>
 
 🎵 <b>Creative Technologist</b> | AI & Sound Developer · Founder of <b>Indjoov Arts</b><br/>
@@ -38,6 +38,25 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ---
 
+### 🥁 DrumCraft — Open Source Accessible Drum Tuner
+[🚀 Live Demo](https://indjoov.github.io/drumcraft/) · [📦 Repository](https://github.com/indjoov/drumcraft)
+
+<p>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
+</p>
+
+- **Lug-by-lug drum tuning** with interactive drum head diagram
+- Supports **Snare, Bass Drum, Rack Tom, Floor Tom, and Hi-Hat**
+- **Haptic feedback** for deaf and hard-of-hearing drummers via Vibration API
+- Batter & resonant head tuning with adjustable target frequency
+- Built with **React 19**, **Vite**, and **Web Audio API**
+
+---
+
 ### 🎼 Sonic Inclusion — Open Toolkit for Accessible Sound Design using AI
 [🔗 Live Demo](https://indjoov.github.io/sonic-inclusion/) · [📦 Repository](https://github.com/indjoov/sonic-inclusion)
 
@@ -50,16 +69,20 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 </p>
 
 - Turns audio into **color & shape** visualizations  
-- Works with **microphone** or **audio files** - Built with **Web Audio API**, **Canvas**, **JS**, **CSS** - Goal: accessible, barrier-free sound experiences
+- Works with **microphone** or **audio files**
+- Built with **Web Audio API**, **Canvas**, **JS**, **CSS**
+- Goal: accessible, barrier-free sound experiences
 
 ---
 
 ## 🧰 Tech I use
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
   <img alt="Web Audio API" src="https://img.shields.io/badge/Web%20Audio%20API-111827?logo=webauthn&logoColor=fff" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000?logo=figma&logoColor=fff" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff" />
 </p>
@@ -74,12 +97,16 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ---
 
-## 🧪 What I’m exploring next
+## 🧪 What I'm exploring next
 - AI-assisted **audio ↔ tactile/visual** mapping  
+- Expanding the **Craft Audio** toolkit (PitchCraft · DrumCraft · more to come)
 - Plugins for **DAWs** & live performance  
-- Co-creation with **accessibility communities** ---
+- Co-creation with **accessibility communities**
+
+---
 
 ## 🧵 Recent Projects
+- **Craft Audio** — a family of open-source, accessible music tools (PitchCraft & DrumCraft)
 - Indjoov Ritual (psychedelic rock & art project) — landing & web app  
 - Small creative coding experiments (audio-reactive visuals)
 
@@ -94,12 +121,12 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ---
 
-_“With Sonic Inclusion, we aim to turn sound into a shared, inclusive experience for all.”_
+_"With Sonic Inclusion, we aim to turn sound into a shared, inclusive experience for all."_
 
 <hr>
 
 <p align="center">
-🖤 Made by <b>Nicola Indjov</b> · 
+🖤 Made by <b>Niki Indjov</b> · 
 <a href="https://indjoov.com" target="_blank">indjoov.com</a> · 
 <a href="https://linkedin.com/in/nicola-indjov" target="_blank">LinkedIn</a> · 
 <a href="https://github.com/indjoov" target="_blank">GitHub</a>
