@@ -20,6 +20,25 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ## 🎯 Featured Projects
 
+### ⚡ CraftForge — AI-Powered Web Audio Plugin Generator
+[🚀 Live Demo](https://craftforge.pages.dev) · [📦 Repository](https://github.com/indjoov/craftforge)
+
+<p>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
+  <img src="https://img.shields.io/badge/AI-Powered-orange.svg" />
+  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
+</p>
+
+- **Describe any sound in plain language** — CraftForge builds a real, playable Web Audio plugin instantly
+- Generates **named plugins** with interactive parameter sliders and live oscilloscope visualizer
+- **No DAW, no install, no download** — runs entirely in the browser via Web Audio API
+- Accessibility-first: ARIA labels, keyboard navigation, screen reader support
+- Built with **Vanilla JS**, **Cloudflare Workers**, and **Anthropic Claude API**
+
+---
+
 ### 🎸 PitchCraft — Open Source Accessible Chromatic Tuner
 [🚀 Live Demo](https://indjoov.github.io/pitchcraft/) · [📦 Repository](https://github.com/indjoov/pitchcraft)
 
@@ -82,6 +101,7 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
   <img alt="Web Audio API" src="https://img.shields.io/badge/Web%20Audio%20API-111827?logo=webauthn&logoColor=fff" />
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=fff" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000?logo=figma&logoColor=fff" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff" />
@@ -91,13 +111,14 @@ Exploring the intersection of <b>AI, sound, and inclusive design.</b>
 
 ## 🧪 What I'm exploring next
 - AI-assisted **audio ↔ tactile/visual** mapping  
-- Expanding the **Craft Audio** toolkit (PitchCraft · DrumCraft · more to come)
+- Expanding the **Craft Audio** toolkit (PitchCraft · DrumCraft · CraftForge · more to come)
 - Plugins for **DAWs** & live performance  
 - Co-creation with **accessibility communities**
 
 ---
 
 ## 🧵 Recent Projects
+- **CraftForge** — AI-powered Web Audio plugin generator (describe a sound, get a plugin)
 - **Craft Audio** — a family of open-source, accessible music tools (PitchCraft & DrumCraft)
 - Indjoov Ritual (psychedelic rock & art project) — landing & web app  
 - Small creative coding experiments (audio-reactive visuals)
