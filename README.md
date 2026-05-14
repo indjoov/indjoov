@@ -1,151 +1,62 @@
-<h1 align="left">Hi, I'm Niki Indjov 👋</h1>
-<p align="left"><i>Building open, inclusive tools for the future of human-computer creativity.</i></p>
+# Hi, I'm Niki Indjov 👋
 
-🎵 <b>Creative Technologist</b> | AI & Sound Developer · Founder of <b>Indjoov Arts</b><br/>
-Exploring the intersection of <b>AI, sound, and inclusive design.</b>
+**Creative Technologist | Audio C++ & DSP Developer**
+*Founder of Indjoov Arts — Berlin, Europe*
 
-🌍 Based in Berlin · Active across Europe  
-🧠 Focus: WebAudio API · Tone.js · Three.js · Canvas API · AI for Sound Interaction  
-🔬 Open Source R&D · Accessibility in Music Tech  
-🤝 Open for collaborations in Creative Technology & AI-driven Sound Design
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=indjoov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Berlin-4D7CFE?style=flat&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Accessibility%20%7C%20Music%20Tech-7C3AED" />
-</p>
+I build professional, accessible audio tools with **C++ and JUCE**, and explore the future of sound through **AI-powered web applications**. My work bridges low-level DSP engineering and inclusive music technology, from VST3 plugins to real-time AI sound generators.
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured C++ & DSP Project
 
-### 🔥 CraftLimit — Web-based True Peak Limiter
-[🚀 Live Demo](https://craftlimit.vercel.app) · [📦 Repository](https://github.com/indjoov/craftlimit)
+### 🎛️ CraftLimit — Stereo-linked Peak Limiter (VST3)
+*A professional-grade VST3 plugin built with JUCE and C++.*
 
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
-  <img src="https://img.shields.io/badge/WebAudio-DSP-blue.svg" />
-  <img src="https://img.shields.io/badge/React-Vite-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
-</p>
+[![Repository](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/indjoov/craftlimit-juce)
 
-- Browser-based **true peak limiter prototype**
-- Plugin-style interface inspired by modern mastering tools (FabFilter / Ozone)
-- Multiple limiter modes: **Transparent · Aggressive · Dynamic · Surgical · Bus**
-- Designed as a **foundation for future audio plugins & DSP tools**
-- Built with **React**, **Vite**, and **Web Audio API (in progress)**
+- **Stereo-linked peak limiting** with look-ahead architecture for mix-bus and mastering.
+- Five program-dependent algorithm presets (Transparent, Dynamic, Aggressive, Surgical, Bus).
+- **True-peak limiting via 2x/4x oversampling** (FIR equiripple half-band, linear phase).
+- **Lock-free parameter updates** and host-reported latency compensation.
+- Fully decoupled DSP engine — reusable in other hosts or for offline processing.
+
+> 💡 Developed as a hands-on project in audio software engineering. Tested in Studio One 6 on Windows with real program material.
 
 ---
 
-### ⚡ CraftForge — AI-Powered Web Audio Plugin Generator
-[🚀 Live Demo](https://craftforge.pages.dev) · [📦 Repository](https://github.com/indjoov/craftforge)
+## 🌐 Web Audio & AI Projects
 
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
-  <img src="https://img.shields.io/badge/AI-Powered-orange.svg" />
-  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
-</p>
+Diese Projekte zeigen meine Leidenschaft für zugängliche, browserbasierte Musiktechnologie.
 
-- **Describe any sound in plain language** — CraftForge builds a real, playable Web Audio plugin instantly
-- Generates **interactive plugins** with parameters + oscilloscope
-- Runs fully in the browser — no install needed
-- Built with **Vanilla JS**, **Cloudflare Workers**, **Claude API**
+| Project | Description | Tech |
+|---------|-------------|------|
+| **⚡ CraftForge** | AI-powered Web Audio plugin generator — describe a sound, get a real, playable plugin. | Vanilla JS, Cloudflare Workers, Claude API |
+| **🎹 PitchCraft** | Open-source accessible chromatic tuner with real-time pitch detection. | React, Vite, Web Audio API |
+| **🥁 DrumCraft** | Accessible drum tuner with haptic feedback and interactive UI. | React, Web Audio API |
+| **🌈 Sonic Inclusion** | Accessible sound design toolkit — translates audio into visual experiences. | Web Audio API, Canvas |
+
+*Alle Webprojekte sind live und ohne Installation nutzbar. Links finden sich in den jeweiligen Repositories.*
 
 ---
 
-### 🎸 PitchCraft — Open Source Accessible Chromatic Tuner
-[🚀 Live Demo](https://indjoov.github.io/pitchcraft/) · [📦 Repository](https://github.com/indjoov/pitchcraft)
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
-</p>
-
-- Real-time pitch detection via Web Audio API
-- Supports multiple instruments
-- High-contrast + accessible UI
-- Built with **React**, **Vite**
+| C++ & Native | Web & AI |
+|--------------|----------|
+| C++17/20, JUCE, VST3 | TypeScript, React, Vite, Web Audio API |
+| Real-time DSP, Oversampling | Tone.js, Canvas API, Three.js |
+| Lock-free programming, Multithreading | Cloudflare Workers, Claude API, Node.js |
+| CMake, Git, CI/CD | Accessible Design (WCAG), Vibration API |
 
 ---
 
-### 🥁 DrumCraft — Open Source Accessible Drum Tuner
-[🚀 Live Demo](https://indjoov.github.io/drumcraft/) · [📦 Repository](https://github.com/indjoov/drumcraft)
+## 🌱 Open for Collaborations
 
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Live-success.svg" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
-</p>
-
-- Lug-by-lug drum tuning system
-- Haptic feedback (Vibration API)
-- Interactive tuning UI
-- Built with **React + Web Audio API**
+Ich suche den Austausch und die Zusammenarbeit in den Bereichen Creative Technology, AI-gestütztes Sound Design und professionelle Audio-Softwareentwicklung. Wenn du an einem gemeinsamen Projekt interessiert bist — melde dich gerne!
 
 ---
 
-### 🎼 Sonic Inclusion — Accessible Sound Design Toolkit
-[🔗 Live Demo](https://indjoov.github.io/sonic-inclusion/) · [📦 Repository](https://github.com/indjoov/sonic-inclusion)
-
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Prototype-blue.svg" />
-  <img src="https://img.shields.io/badge/AI-Powered-orange.svg" />
-  <img src="https://img.shields.io/badge/Inclusive%20Design-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success.svg" />
-</p>
-
-- Translates sound into **visual experiences**
-- Works with mic or uploaded audio
-- Built with Web Audio + Canvas
-- Focus on accessibility
-
----
-
-## 🧠 Craft Audio Ecosystem
-
-CraftLimit is part of a growing system of tools:
-
-👉 **Craft Audio Suite**
-- CraftLimit (limiting / mastering)
-- CraftForge (AI plugin generation)
-- PitchCraft (instrument tuning)
-- DrumCraft (drum tuning)
-
-Goal:
-→ build a **new generation of accessible, web-native music tools**
-
----
-
-## 🧰 Tech I use
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-  <img alt="Web Audio API" src="https://img.shields.io/badge/Web%20Audio%20API-111827?logo=webauthn&logoColor=fff" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
-  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=fff" />
-</p>
-
----
-
-## 📬 Connect
-
-- 🌐 https://indjoov.com  
-- 📧 niki.indjov@gmail.com  
-- 🧑‍💻 https://github.com/indjoov  
-- 📸 https://instagram.com/indjoov  
-
----
-
-<p align="center">
-🖤 Made by <b>Niki Indjov</b>
-</p>
+*Made by Niki Indjov*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/indjoov/)
+[![Website](https://img.shields.io/badge/Website-Visit-lightgrey?logo=vercel)](https://indjoov.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:niki.indjov@gmail.com)
