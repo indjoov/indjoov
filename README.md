@@ -35,7 +35,7 @@ Diese Projekte zeigen meine Leidenschaft für zugängliche, browserbasierte Musi
 | **🥁 DrumCraft** | Accessible drum tuner with haptic feedback and interactive UI. | React, Web Audio API |
 | **🌈 Sonic Inclusion** | Accessible sound design toolkit — translates audio into visual experiences. | Web Audio API, Canvas |
 
-*Alle Webprojekte sind live und ohne Installation nutzbar. Links finden sich in den jeweiligen Repositories.*
+*These projects demonstrate my passion for accessible, browser-based music technology.*
 
 ---
 
