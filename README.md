@@ -26,7 +26,7 @@ I build professional, accessible audio tools with **C++ and JUCE**, and explore 
 
 ## 🌐 Web Audio & AI Projects
 
-Diese Projekte zeigen meine Leidenschaft für zugängliche, browserbasierte Musiktechnologie.
+These projects demonstrate my passion for accessible, browser-based music technology.
 
 | Project | Description | Tech |
 |---------|-------------|------|
