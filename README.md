@@ -57,6 +57,7 @@ I am seeking opportunities for exchange and collaboration in the fields of Creat
 ---
 
 *Made by Niki Indjov*
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/indjoov/)
 [![Website](https://img.shields.io/badge/Website-Visit-lightgrey?logo=vercel)](https://indjoov.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:niki.indjov@gmail.com)
