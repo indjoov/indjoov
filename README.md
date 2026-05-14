@@ -52,7 +52,7 @@ Diese Projekte zeigen meine Leidenschaft für zugängliche, browserbasierte Musi
 
 ## 🌱 Open for Collaborations
 
-Ich suche den Austausch und die Zusammenarbeit in den Bereichen Creative Technology, AI-gestütztes Sound Design und professionelle Audio-Softwareentwicklung. Wenn du an einem gemeinsamen Projekt interessiert bist — melde dich gerne!
+I am seeking opportunities for exchange and collaboration in the fields of Creative Technology, AI-driven sound design, and professional audio software development. If you are interested in a joint project, please feel free to get in touch!
 
 ---
 
