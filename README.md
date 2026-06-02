@@ -1,7 +1,7 @@
 # Hi, I'm Niki Indjov 👋
 
 **Creative Technologist | Audio C++ & DSP Developer**
-*Founder of Indjoov Arts — Berlin, Europe*
+*Founder of Indjoov Arts, CraftAudio — Berlin, Europe*
 
 I build professional, accessible audio tools with **C++ and JUCE**, and explore the future of sound through **AI-powered web applications**. My work bridges low-level DSP engineering and inclusive music technology, from VST3 plugins to real-time AI sound generators.
 
